@@ -94,12 +94,11 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Dark-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
@@ -767,7 +766,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : -
 `
 }
 exports.tos = (ownernomer) => {
@@ -791,7 +790,6 @@ exports.info = (prefix) =>{
 	return`╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
@@ -1381,7 +1379,7 @@ exports.tqto = () =>{
 ├ Mhankbarbar
 ├ Nurutomo
 ├ Rashid
-├ ZeeoneOfc
+├ Dark
 ├ Penyedia Module
 ╰❒ And All Support
 `
