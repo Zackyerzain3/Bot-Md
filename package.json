@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Zacky Gans",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc/"
+    "url": "git+https://github.com/Zackyerzain3/"
   },
   "bugs": {
     "url": "https://github.com/zeeoneofc/"
