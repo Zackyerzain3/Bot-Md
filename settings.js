@@ -12,27 +12,27 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Dark-Mdོ" //namabot kalian
+global.ownername= "ZackyGans" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "wa.me/6285767800607" //bebas asal jan hapus
+global.github = "https://github.com/Zackyerzain3" //bebas
+global.email = "zackyerzain@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.ownernomer = "6285767800607" // nomor wa kalian
+global.ownernomerr = "+6285767800607" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "./image/lol.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.owner = ["6285767800607","6285767800607","6285767800607"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Dark-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Zacky Gans' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
