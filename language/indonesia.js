@@ -128,7 +128,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}antiviewonce [on/off]
 ├ ${prefix}join [link]
 ├ ${prefix}self
-├ ${prefix}jadibot [tahap Beta]
 ├ ${prefix}public [only bot]
 ├ ${prefix}del [reply pesan bot]
 ╰❒ ${prefix}setppbot [reply image]
