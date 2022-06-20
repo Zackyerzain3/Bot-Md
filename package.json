@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "Zacky Gans",
+  "author": "Phoenix Store",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
